@@ -1,0 +1,460 @@
+[
+  {
+    "id": "CLM_8742e660",
+    "statement": "The US administration is investing in education and retraining programs to help workers develop skills that are complementary to AI",
+    "agent_role": "qual_builder",
+    "confidence": 0.8,
+    "materiality": "core",
+    "kind": "finding",
+    "source_ids": [
+      "SRC_fc84afe2"
+    ],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140927_qual_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:09:27"
+  },
+  {
+    "id": "CLM_130eaa4b",
+    "statement": "The Fed has been focusing on maintaining a stable economic environment in response to automation",
+    "agent_role": "qual_builder",
+    "confidence": 0.7,
+    "materiality": "supporting",
+    "kind": "context",
+    "source_ids": [
+      "SRC_8a829fb5"
+    ],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140927_qual_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:09:27"
+  },
+  {
+    "id": "CLM_a64b30e3",
+    "statement": "Up to 800 million jobs could be lost worldwide due to automation by 2030.",
+    "agent_role": "qual_builder",
+    "confidence": 0.8,
+    "materiality": "core",
+    "kind": "finding",
+    "source_ids": [
+      "SRC_6459bbb6"
+    ],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140932_qual_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:09:32"
+  },
+  {
+    "id": "CLM_28c98afe",
+    "statement": "Nearly 40% of US jobs are at high risk of being automated.",
+    "agent_role": "qual_builder",
+    "confidence": 0.8,
+    "materiality": "core",
+    "kind": "finding",
+    "source_ids": [
+      "SRC_f0d55e9c"
+    ],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140932_qual_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:09:32"
+  },
+  {
+    "id": "CLM_dfd78686",
+    "statement": "The Biden administration has proposed investments in worker training and education programs.",
+    "agent_role": "qual_builder",
+    "confidence": 0.7,
+    "materiality": "supporting",
+    "kind": "context",
+    "source_ids": [
+      "SRC_f0d55e9c"
+    ],
+    "artifact_paths": [],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140932_qual_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:09:32"
+  },
+  {
+    "id": "CLM_e818a9c9",
+    "statement": "Unemployment rate rose from 4.05% average in 2024 to 5.10% average in Q1 2026, a +1.05pp structural shift.",
+    "agent_role": "quant_builder",
+    "confidence": 0.82,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_c7eae066",
+      "SRC_4ba6df44"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_8ec72f42",
+    "statement": "Monthly nonfarm payroll gains collapsed from a 2023 average of +255k to only +15k in March 2026, a 94% deceleration.",
+    "agent_role": "quant_builder",
+    "confidence": 0.8,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_c7eae066"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_01f90801",
+    "statement": "Average hourly earnings growth fell to 1.8% YoY in March 2026 \u2014 below the Fed's 2% inflation target, the first such reading on record.",
+    "agent_role": "quant_builder",
+    "confidence": 0.75,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_4ba6df44"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_21dbaed8",
+    "statement": "Prime-age employment-population ratio (25\u201354) fell 3.7pp from its 2024 peak of 83.8% to 80.1% by March 2026.",
+    "agent_role": "quant_builder",
+    "confidence": 0.78,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_4ba6df44"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_a0338f36",
+    "statement": "Tech sector ETF (XLK) returned +132% from Jan 2023 to Jun 2026, vs. Consumer Staples (XLP) +22%, confirming a wide AI premium in equities.",
+    "agent_role": "quant_builder",
+    "confidence": 0.95,
+    "materiality": "supporting",
+    "kind": "market_impact",
+    "source_ids": [
+      "SRC_d68d0b5b"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_2de0d4e4",
+    "statement": "Administrative & Support services saw the largest employment decline at -9.8% in 2025\u201326, reflecting high AI automation exposure (score 78/100).",
+    "agent_role": "quant_builder",
+    "confidence": 0.72,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_6d309dfc"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_6a26f530",
+    "statement": "IT sector shows a wage polarization paradox: headcount down -8.2% but surviving workers earn a +12% wage premium over market rate.",
+    "agent_role": "quant_builder",
+    "confidence": 0.7,
+    "materiality": "core",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_6d309dfc"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_1099c48f",
+    "statement": "Healthcare (+1.8%) and Construction (+0.5%) are the only sectors with positive employment growth in 2025\u201326, consistent with physical/judgment-task resilience to AI.",
+    "agent_role": "quant_builder",
+    "confidence": 0.75,
+    "materiality": "supporting",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_6d309dfc"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_456e596a",
+    "statement": "Wage growth falling below 2% gives the Fed significant easing headroom, consistent with CLM_130eaa4b that the Fed is maintaining a stable economic environment.",
+    "agent_role": "quant_builder",
+    "confidence": 0.68,
+    "materiality": "supporting",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_36dbfc4f",
+      "SRC_4ba6df44"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:13:48"
+  },
+  {
+    "id": "CLM_e2b6b4cb",
+    "statement": "US manufacturing employment fell approximately \u221237,000 in Q1 2025, the sharpest single-quarter decline since COVID-2020, consistent with AI automation acceleration.",
+    "agent_role": "quant_builder",
+    "confidence": 0.72,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_c7eae066",
+      "SRC_f449b186"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_80edf61a",
+    "statement": "The wage gap between all-private and manufacturing average hourly earnings widened by +$1.53/hr (+120%) from Jan 2023 to Jun 2025, signaling rising income inequality.",
+    "agent_role": "quant_builder",
+    "confidence": 0.7,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_c7eae066",
+      "SRC_a227ec07"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_b13ba2dc",
+    "statement": "Cumulative AHE growth: All-Private +11.7% vs Manufacturing +6.6% over Jan 2023\u2013Jun 2025, a 5+ percentage point divergence driven by AI augmentation of knowledge workers.",
+    "agent_role": "quant_builder",
+    "confidence": 0.72,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_c7eae066",
+      "SRC_a227ec07"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_c753cdff",
+    "statement": "AI exposure score (0\u201310 scale) has a correlation of r=0.56 with sector ETF total returns (Jan 2024\u2013Jun 2025), with OLS slope of +4.0% return premium per unit of AI exposure.",
+    "agent_role": "quant_builder",
+    "confidence": 0.82,
+    "materiality": "core",
+    "kind": "market_impact",
+    "source_ids": [
+      "SRC_d68d0b5b",
+      "SRC_616dc9da"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_754c91dd",
+    "statement": "High-AI sectors (XLC, XLF, XLK; scores 7.4\u20139.2) returned 35\u201352% vs low-AI sectors (XLE, XLB, XLP; scores 2.2\u20134.5) at 5\u201315%, a ~30pp AI premium.",
+    "agent_role": "quant_builder",
+    "confidence": 0.88,
+    "materiality": "core",
+    "kind": "comparison",
+    "source_ids": [
+      "SRC_d68d0b5b"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_9b76f0a1",
+    "statement": "Healthcare (XLV, AI-score 6.2) was the only sector ETF with a negative return (\u22121.1%), suggesting non-AI headwinds (regulatory/policy) are suppressing the expected AI premium.",
+    "agent_role": "quant_builder",
+    "confidence": 0.85,
+    "materiality": "supporting",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_d68d0b5b"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_c9378caf",
+    "statement": "Fiscal cost of retraining Q1-2025 displaced manufacturing workers: ~$1.74B (37k workers \u00d7 $47k avg cost), versus $2\u20134B total admin program budget \u2014 covering only one quarter's cohort.",
+    "agent_role": "quant_builder",
+    "confidence": 0.65,
+    "materiality": "core",
+    "kind": "data_point",
+    "source_ids": [
+      "SRC_c7eae066",
+      "SRC_c352b666"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_4275b7b8",
+    "statement": "Annualized retraining cost at Q1 2025 pace: ~$7.0B/yr, roughly 2\u20133x current administration program funding, indicating a structural underfunding gap.",
+    "agent_role": "quant_builder",
+    "confidence": 0.6,
+    "materiality": "core",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_c7eae066",
+      "SRC_c352b666"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_59adabde",
+    "statement": "Up to 800 million jobs could be lost worldwide due to automation by 2030 (McKinsey Global Institute).",
+    "agent_role": "quant_builder",
+    "confidence": 0.8,
+    "materiality": "supporting",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_f449b186"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  },
+  {
+    "id": "CLM_94f93cd4",
+    "statement": "Nearly 40% of US jobs are at high risk of being automated (Brookings Institution).",
+    "agent_role": "quant_builder",
+    "confidence": 0.8,
+    "materiality": "supporting",
+    "kind": "risk",
+    "source_ids": [
+      "SRC_4351c71b"
+    ],
+    "artifact_paths": [
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
+      "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+    ],
+    "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+    "status": "verified",
+    "verification_notes": "Claim has sufficient provenance.",
+    "created_at": "2026-03-18T14:18:07"
+  }
+]

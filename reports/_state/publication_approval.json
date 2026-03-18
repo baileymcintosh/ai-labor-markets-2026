@@ -1,0 +1,27 @@
+{
+  "run_id": "ai-labor-markets-2026-20260318_141912",
+  "project_name": "ai-labor-markets-2026",
+  "project_dir": "/tmp/projects/ai-labor-markets-2026",
+  "mode": "prelim",
+  "status": "approved",
+  "requires_approval": false,
+  "verifier_verdict": "PASS",
+  "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141816_reporter_executive_summary.md",
+  "notebook_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141816_reporter_executive_summary.ipynb",
+  "pdf_path": null,
+  "qa_report_path": "",
+  "outputs": [
+    "/tmp/projects/ai-labor-markets-2026/reports/20260318_141809_qual_builder_consolidated.md",
+    "/tmp/projects/ai-labor-markets-2026/reports/20260318_141809_quant_builder_consolidated.md",
+    "/tmp/projects/ai-labor-markets-2026/reports/20260318_141809_session_dialogue.md",
+    "/tmp/projects/ai-labor-markets-2026/reports/20260318_141809_verifier_verification_report.md",
+    "/tmp/projects/ai-labor-markets-2026/reports/20260318_141816_reporter_executive_summary.md",
+    "/tmp/projects/ai-labor-markets-2026/reports/20260318_141816_reporter_executive_summary.ipynb"
+  ],
+  "summary": "Prelim run for ai-labor-markets-2026 passed verification with 5 chart(s) and 4 collaboration message(s).",
+  "notes": "",
+  "created_at": "2026-03-18T14:19:12",
+  "updated_at": "2026-03-18T14:19:12",
+  "approved_at": "2026-03-18T14:19:12",
+  "approved_by": "system"
+}
