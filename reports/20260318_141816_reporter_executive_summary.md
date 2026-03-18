@@ -12,7 +12,7 @@
 # US Labor Market Shift Due to AI-Driven Automation
 ## One-Line Status
 
-![Chart Timeline](/tmp/projects/ai-labor-markets-2026/reports/chart_timeline.png)
+![Chart Timeline](charts/chart_timeline.png)
 
 The US labor market is undergoing significant changes due to AI-driven automation, with certain sectors being more disrupted than others, and the administration's policy responses are aimed at mitigating the negative effects of automation on employment.
 
@@ -24,13 +24,13 @@ The quantitative research findings show a clear, multi-indicator inflection at Q
 
 ## Scenario Outlook
 
-![Chart Scenarios](/tmp/projects/ai-labor-markets-2026/reports/chart_scenarios.png)
+![Chart Scenarios](charts/chart_scenarios.png)
 
 The current landscape of AI-driven automation in the US labor market is complex, with various sectors experiencing disruption. According to a report by the McKinsey Global Institute, up to 800 million jobs could be lost worldwide due to automation by 2030. In the US, sectors such as manufacturing, transportation, and customer service are being significantly disrupted. The Biden administration has proposed investments in worker training and education programs, as well as initiatives to promote the development of new industries and jobs.
 
 ## Financial Markets Implications
 
-![Chart Market Impact](/tmp/projects/ai-labor-markets-2026/reports/chart_market_impact.png)
+![Chart Market Impact](charts/chart_market_impact.png)
 
 The quantitative research findings also show that the Tech sector ETF (XLK) returned +132% from Jan 2023 to Jun 2026, vs. Consumer Staples (XLP) +22%, confirming a wide AI premium in equities. The data suggests that investors are pricing in the benefits of AI-driven automation, but also highlights the potential risks of job displacement and income inequality.
 
@@ -45,31 +45,31 @@ The recommended next steps are to continue monitoring the labor market closely, 
 
 ## Data & Charts
 ### Labor Market Dashboard
-![Chart Quant 1773843135 01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png)
+![Chart Quant 1773843135 01](charts/chart_quant_1773843135_01.png)
 The Labor Market Dashboard chart shows a clear, multi-indicator inflection at Q1 2026, with the unemployment rate rising from 4.05% average in 2024 to 5.10% average in Q1 2026, a +1.05pp structural shift. The monthly nonfarm payroll gains collapsed from a 2023 average of +255k to only +15k in March 2026, a 94% deceleration. The average hourly earnings growth fell to 1.8% YoY in March 2026, below the Fed's 2% inflation target, the first such reading on record.
 
 The data suggests that the labor market is undergoing significant changes due to AI-driven automation, with certain sectors being more disrupted than others. The administration's policy responses, including investing in education and retraining programs, are aimed at mitigating the negative effects of automation on employment.
 
 ### Sector ETF Performance Divergence
-![Chart Quant 1773843156 01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png)
+![Chart Quant 1773843156 01](charts/chart_quant_1773843156_01.png)
 The Sector ETF Performance Divergence chart shows that the Tech sector ETF (XLK) returned +132% from Jan 2023 to Jun 2026, vs. Consumer Staples (XLP) +22%, confirming a wide AI premium in equities. The data suggests that investors are pricing in the benefits of AI-driven automation, but also highlights the potential risks of job displacement and income inequality.
 
 The chart also shows that the Industrials sector ETF (XLI) returned +77% from Jan 2023 to Jun 2026, benefiting from AI capex infrastructure investments. The Healthcare sector ETF (XLV) returned −1.1% from Jan 2023 to Jun 2026, due to regulatory headwinds and Medicaid uncertainty.
 
 ### Sector AI Exposure vs. Employment Impact
-![Chart Quant 1773843180 01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png)
+![Chart Quant 1773843180 01](charts/chart_quant_1773843180_01.png)
 The Sector AI Exposure vs. Employment Impact chart shows that the sectors most disrupted by AI-driven automation in the US labor market include manufacturing, transportation, and customer service. The data suggests that these sectors are experiencing significant job displacement due to AI-driven automation.
 
 The chart also shows that the IT sector is experiencing wage polarization, with survivors earning a +12% premium. The data suggests that the IT sector is being disrupted by AI-driven automation, but also highlights the potential benefits of AI-driven automation, including increased productivity and efficiency.
 
 ### Manufacturing Employment
-![Chart Quant 1773843341 01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png)
+![Chart Quant 1773843341 01](charts/chart_quant_1773843341_01.png)
 The Manufacturing Employment chart shows that the manufacturing employment broke sharply in January 2025, with a decline of −37,000 jobs in Q1 2025. The data suggests that the manufacturing sector is being significantly disrupted by AI-driven automation.
 
 The chart also shows that the manufacturing employment has been broadly flat through 2024, with a slight decline in Q4 2024. The data suggests that the manufacturing sector is experiencing a structural shift due to AI-driven automation, with significant job displacement and income inequality.
 
 ### Wage Dynamics
-![Chart Quant 1773843417 01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png)
+![Chart Quant 1773843417 01](charts/chart_quant_1773843417_01.png)
 The Wage Dynamics chart shows that the wage gap between All-Private and Manufacturing average hourly earnings widened by +$1.53/hr (+120%) between Jan 2023 and Jun 2025. The data suggests that the manufacturing sector is experiencing significant wage suppression due to AI-driven automation.
 
 The chart also shows that the wage growth in the manufacturing sector is running below the all-private wage growth, with a cumulative difference of +5 percentage points. The data suggests that the manufacturing sector is experiencing a wage paradox, with job displacement and income inequality due to AI-driven automation.
