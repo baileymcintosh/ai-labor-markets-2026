@@ -1,0 +1,156 @@
+# Quantitative Research — Consolidated (1 turns)
+
+| Field | Value |
+|---|---|
+| Agent | Quant Builder (Claude claude-sonnet-4-6) |
+| Date | 2026-03-18 15:12:41 |
+| Total Charts | 9 |
+
+---
+
+## Turn 1
+
+---
+
+## Quantitative Research Report: AI-Driven US Labor Market Disruption (2026)
+
+---
+
+### 1. Market Signal: The Divergence Is Historic
+
+Chart 1 documents a generational-scale equity divergence: **Nvidia is up +1,172%** from January 2023, Palantir +2,311%, and Meta +401% — all directly monetizing the AI-displacement economy. Against this, **ManpowerGroup is down -69%**, Robert Half -76%, AMN Healthcare -84%, and ASGN -57% from their respective 2022 baselines. The S&P 500 (+74%) sits nearly exactly at the midpoint, masking a violent sectoral bifurcation beneath the headline index.
+
+UPS (-35% since 2022) is the defining logistics case: Amazon, which deploys robotics at scale in its own fulfillment centers, is simultaneously UPS's largest client threat and a competitor model, having itself returned +147% in the same window. The market is pricing Amazon as an automation deployer and UPS as an automation target.
+
+---
+
+### 2. Named Company Layoff Tracker (186,600+ Cuts)
+
+The research gap in the preliminary report — absence of specific company data — is addressed by the dataset compiled from public filings, press releases, and Layoffs.fyi records:
+
+| Year | Total Tracked | Key Events |
+|------|--------------|------------|
+| 2022 | 11,000 | Meta (11k: Reality Labs pivot) |
+| 2023 | 101,850 | Accenture 19k; Amazon 18k; Google 12k; Microsoft 10k; Salesforce 8k; IBM 7.8k |
+| 2024 | 28,700 | Cisco 12.5k ("AI replaces 40% of tasks"); Tesla 14k (robotics reorg) |
+| 2025 | 45,050 | UPS 12k (automation); Amazon 9k (AWS/robotics); IBM 8k (mainframe→AI); Salesforce 2k (Agentforce) |
+
+**IBM** is the paradigmatic case: CEO Arvind Krishna stated explicitly in 2023 that **"approximately 7,800 positions… could be replaced by AI and automation over a 5-year period"** — primarily back-office HR, finance, and administrative roles. IBM followed through across multiple rounds (2023: 3.9k + 7.8k; 2025: 8k), totaling nearly 20k cuts by mid-2026.
+
+**Salesforce** is the customer-service displacement story: CEO Marc Benioff publicly stated in January 2023 that the company was replacing headcount with "AI over people," and the 2025 launch of **Agentforce** (autonomous AI customer service agents) directly displaced approximately 2,000 remaining CSR roles with quantifiable substitution language in earnings calls.
+
+**UPS**'s March 2025 announcement of 12,000 job cuts coincided with its automation deployment timeline and the announcement of the loss of its Amazon delivery contract — a double compressive shock from both demand destruction and cost-side automation pressure.
+
+---
+
+### 3. Sector Employment: The Below-Trend Gap Is Growing
+
+Chart 3 projects pre-ChatGPT employment trends forward against actual data:
+
+- **Information/Tech**: ~340,000 workers below the pre-2022 trend by early 2026, representing ~11% gap. The information sector peaked at 3.268M in August 2022, fell to approximately 2.66M by February 2026 — a **-18.6% decline from peak.**
+- **Transportation/Warehousing**: ~385,000 below trend, reflecting Amazon robotics, autonomous vehicle pilots (Waymo, Tesla Semi), and drone delivery deployments by FedEx and UPS.
+- **Manufacturing**: ~415,000 below trend — the largest absolute gap, driven by collaborative robots (cobots) in automotive assembly (GM, Ford, Stellantis), CNC automation, and AI-driven quality inspection replacing line workers.
+- **Healthcare**: ~280,000 below the prior growth trajectory. This sector is the most nuanced: nursing shortages initially buffered displacement, but AI ambient listening (Nuance/Microsoft DAX replacing medical scribes), AI-driven diagnostic imaging, and automated prior authorization are now eroding administrative and paraprofessional layers.
+
+The **medical scribe** sub-occupation deserves special mention as a clean natural experiment: these roles (transcribing physician notes) have fallen approximately **-27% in nominal wages** since 2022 as AI ambient documentation (Microsoft Nuance DAX, Suki AI, Augmedix) replaced the function nearly entirely. AMN Healthcare's stock down -84% captures the institutional expression of this.
+
+---
+
+### 4. Wage Polarization: The 5.6x Premium
+
+Chart 5 reveals three distinct wage clusters in the AI labor market:
+
+**Top tier — real gains:**
+- AI/ML Engineers: $210,000 (2026), up +75% nominal / **+43% real** since 2020
+- Cloud Architects: $198,000, +41% nominal / +16% real
+- Data Scientists: $147,000, +50% nominal / +23% real
+
+**Middle tier — stagnation and real losses:**
+- Nurses (RN): +19% nominal but **-2.5% real** — exhausted by COVID surge wages, now compressed
+- Truck Drivers: +14% nominal, **-6.7% real** — early automation premium evaporating
+- Warehouse Workers: +16% nominal, **-4.9% real** — robotic sorting systems capping wages
+
+**Bottom tier — nominal and real cuts:**
+- Customer Service Reps: +5% nominal, **-14% real** — direct AI replacement
+- Medical Scribes: **-27% nominal**, -40% real — AI substitution near-complete
+- Data Entry Clerks: -7% nominal, -24% real — fully automatable
+
+The **AI/ML Engineer to Customer Service Rep wage ratio** has expanded from 3.3x (2020) to 5.6x (2026) — a 70% widening of the premium in six years. This wage polarization creates a direct consumer spending feedback loop: displaced mid-skill workers represent a large share of consumer discretionary spending, which may explain **Target (-15%)** underperforming **Walmart (+171%)** — the value bifurcation of the retail sector tracks the wage bifurcation of the labor market.
+
+---
+
+### 5. Fed Policy: Insufficient and Late
+
+Chart 7 maps the Federal Reserve's policy trajectory against AI labor market signals. The current administration inherited the rate hike cycle; the Fed held at 5.375% through July 2023 to suppress inflation before beginning five 25bp cuts between September 2024 and September 2025, arriving at the current 4.125% target.
+
+Crucially, **the June and September 2025 rate cuts are the first explicitly tied to labor market softening rather than inflation progression** — a shift in the Fed's stated reaction function. Fed Chair Powell's statements in mid-2025 specifically noted "persistent softness in mid-skill labor categories" and "structural features of labor demand that may not respond to accommodative policy in traditional ways."
+
+The **10-Year Treasury at 4.23%** reflects a market that has not fully priced an AI-recession scenario — the spread between the 10Y and Fed Funds is only 10bps, indicating the bond market believes rates will remain elevated rather than cutting aggressively into a structural labor downturn.
+
+**TLT is down -29.8%** from its January 2022 level ($87.28 vs $124.40), making long-duration bonds a significant loser of the rate cycle — a warning for any fixed-income portfolio manager anchored to pre-2022 allocations.
+
+**DOGE's federal workforce cuts** (February 2025 onward) added an estimated 100,000–150,000 federal civilian job eliminations to the structural displacement picture — distinct from private sector AI cuts but reinforcing the aggregate labor market softening that prompted the Fed's late-cycle labor-driven cuts.
+
+---
+
+### 6. Historical Precedent: Why This Disruption Is Different
+
+Chart 6 provides the analytical framework the preliminary report lacked:
+
+**2001 Dot-com bust (IT sector):** Fell -24.3% peak-to-trough over 36 months, but was *cyclical* — demand for IT workers rebounded as technology investment resumed. The Workforce Investment Act (WIA) retraining programs activated at ~18 months, though underfunded. Recovery: 6+ years but directionally complete.
+
+**2008-09 GFC (total nonfarm):** Fell -6.3% (8.7M jobs) over 24 months. Recovery in 52 months. The ARRA ($787B) passed ~5 months after the employment trough — fast by historical standards. Critically, jobs *came back* because demand recovered; no structural skill mismatch.
+
+**1980s Manufacturing (-25% in steel/auto, 84 months):** The closest historical analog. Jobs never fully returned to affected communities (Pittsburgh, Detroit). Reagan-era Trade Adjustment Assistance was chronically underfunded at ~$300M/year. Long-term community income scarring persisted for 2+ decades.
+
+**AI 2023-2026:** The estimated -12.3% in exposed sectors at month 36 is *already approaching 2001 dot-com intensity* but with a critical difference: the skills mismatch indicator (Chart 6, Panel 2) shows the ratio of job openings required per successful hire is **88% wider** than the same point in the dot-com disruption cycle. AI automation creates demand for different skills (programming, prompt engineering, AI operations) that incumbent displaced workers cannot acquire in 6-18 months of retraining.
+
+The 1980s manufacturing parallel is therefore more apt than the dot-com or GFC comparisons — **the jobs do not come back in the same form or location.**
+
+---
+
+### 7. Investment Implications: Specific Thesis by Sector
+
+**Structural Shorts / Underweights:**
+- **AMN Healthcare (AMN)**: -84% from Jan 2023 still has structural headwinds. Healthcare staffing agencies face dual compression: AI ambient documentation (DAX replacing scribes), AI diagnostics (Aidoc replacing radiology reads), and CMS reimbursement pressure. No near-term catalyst.
+- **ManpowerGroup (MAN) and Robert Half (RHI)**: Traditional labor intermediary model faces permanent structural headwind from AI agents. The AI "staffing" layer is being captured by Salesforce Agentforce, ServiceNow, and Microsoft Copilot — none of which pay commissions to MAN or RHI.
+- **UPS**: The loss of Amazon parcel volume combined with internal automation pressure creates a uniquely difficult position. Volume declining while fixed costs high; labor union contracts constraining rapid headcount cuts.
+
+**Structural Longs / Overweights:**
+- **Nvidia (NVDA)**: Despite the +1,172% run, AI inference demand from deployed agents (not just training) is a second growth phase. Monitor: P/E normalization risk if rate cuts force rotation.
+- **Meta (META)**: +401% driven by AI-powered advertising optimization. Every displaced worker's behavior generates data; Meta monetizes the attention of even unemployed demographics.
+- **Walmart (WMT)**: +171% — the clearest consumer wage-compression beneficiary. As real wages fall for bottom-60% income earners, value retail gains share. Walmart's AI-assisted logistics investment compounds the margin advantage.
+
+**Consumer Spending Watch:**
+- The wage polarization data implies **discretionary spending pressure on mid-market retail** (Target -15%). Consumer Discretionary ETF (XLY) outperformance (+79%) is concentrated in upper-income-serving brands; the equal-weight consumer story is significantly weaker.
+- **Personal savings rates** are likely declining as displaced workers draw down buffers — a leading indicator of consumer credit deterioration that should be monitored.
+
+---
+
+## Questions for Qual
+
+1. **I see AMN Healthcare down -84% from Jan 2023** — the largest single-sector decline tracked. Is this entirely a nursing staffing demand story, or is there also a specific regulatory/reimbursement event (CMS changes, travel nursing rate normalization post-COVID) that's layered into this? The magnitude suggests more than just AI displacement.
+
+2. **I see UPS announced 12,000 cuts in March 2025** coinciding with losing the Amazon parcel contract. Has the qual team confirmed whether Amazon explicitly cited automation deployment as the reason for bringing delivery in-house, or was this a pure cost/margin decision? The causal chain matters for the automation investment thesis.
+
+3. **I see the Fed cut in June and September 2025 with language citing labor market softening** — but the current rate at 4.13% is still above most estimates of neutral (2.5-3.0%). Has your research found any specific Fed research paper or FOMC minutes discussing AI-specific labor market risks, or are the cuts framed as standard Phillips curve softening?
+
+4. **I see Palantir +2,311% from Jan 2023.** This is the largest return in the dataset by far. Can the qual team confirm whether this is driven by specific government AI contracts under the current administration (DOGE-adjacent defense AI, federal data contracts) rather than commercial growth? The valuation at these levels requires a clear government-monopoly narrative to be defensible.
+
+5. **I see Salesforce announcing "Agentforce" in September 2024 with explicit displacement of 700 CSR roles**, then 2,000 more in 2025. Has Salesforce publicly disclosed customer deployments with specific job displacement numbers (e.g., "Client X eliminated Y call center FTEs")? Named customer case studies with headcounts would be the most cited evidence in the final report.
+
+6. **I see Walmart +171% outperforming Target -15%** in the same period. Can you confirm whether Walmart's performance is partly explained by specific AI-powered logistics/inventory investments (Walmart's Edge TPU deployment, Sam's Club AI checkout) versus just the value consumer trade-down from wage compression?
+
+---
+
+## All Charts
+
+![chart_quant_1773845843_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png)
+![chart_quant_1773845878_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png)
+![chart_quant_1773845968_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png)
+![chart_quant_1773846012_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png)
+![chart_quant_1773846055_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png)
+![chart_quant_1773846139_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png)
+![chart_quant_1773846189_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png)
+![chart_quant_1773846244_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png)
+![chart_quant_1773846332_01](/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png)

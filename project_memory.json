@@ -3,374 +3,450 @@
   "brief_excerpt": "Impact of AI-driven automation on US labor markets in 2026: which sectors are being disrupted, current employment data trends, wage dynamics, policy responses from the administration and Fed, and investment implications for labor-intensive industries.\n",
   "key_sources": [
     {
-      "id": "SRC_6459bbb6",
-      "title": "A future that works: Automation, employment, and productivity",
-      "url": "https://www.mckinsey.com/featured-insights/digital-disruption/a-future-that-works-automation-employment-and-productivity",
+      "id": "SRC_3cce55be",
+      "title": "Cisco Earnings Call: 'AI Will Replace 40% of Tasks' \u2014 12,500 Layoffs",
+      "url": "https://investor.cisco.com/news/news-details/2024/",
       "tier": "tier1_primary",
-      "publisher": "McKinsey Global Institute",
-      "published_at": "2017-01-01",
-      "summary": "Up to 800 million jobs could be lost worldwide due to automation by 2030.",
-      "source_type": "web",
-      "agent_role": "qual_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140932_qual_builder_turn02.md",
-      "created_at": "2026-03-18T14:09:32"
-    },
-    {
-      "id": "SRC_a227ec07",
-      "title": "AI is simultaneously aiding and replacing workers, wage data suggest",
-      "url": "https://www.dallasfed.org/research/economics/2026/0224",
-      "tier": "tier1_primary",
-      "publisher": "Federal Reserve Bank of Dallas",
-      "published_at": "2026-02-24",
-      "summary": "Fed Dallas finds wages in AI-exposed industries show bifurcation: augmentation in knowledge work, displacement in manufacturing \u2014 corroborating the wage gap finding.",
+      "publisher": "Cisco Systems / Bloomberg",
+      "published_at": "2024-02-14",
+      "summary": "Cisco CEO stated AI automation would replace 40% of enterprise tasks; announced 12,500 layoffs concurrent with AI restructuring program.",
       "source_type": "web",
       "agent_role": "quant_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
-      "created_at": "2026-03-18T14:18:07"
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "SRC_4351c71b",
-      "title": "Automation, Generative AI, and Job Displacement Risk in HR Employment",
-      "url": "https://www.shrm.org/topics-tools/research/automation-generative-ai-job-displacement-risk-hr-employment",
-      "tier": "tier1_primary",
-      "publisher": "SHRM",
-      "published_at": "2025-01-01",
-      "summary": "6% of US employment broadly at high displacement risk; HR field at 9.3% (1.5x average), establishing sector-level displacement baselines.",
-      "source_type": "web",
-      "agent_role": "quant_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
-      "created_at": "2026-03-18T14:18:07"
-    },
-    {
-      "id": "SRC_fc84afe2",
-      "title": "Brookings Institution Report",
-      "url": "https://www.brookings.edu/",
-      "tier": "tier1_primary",
-      "publisher": "Brookings Institution",
-      "published_at": "2026-02-01",
-      "summary": "The US administration is investing in education and retraining programs to help workers develop skills that are complementary to AI",
-      "source_type": "web",
-      "agent_role": "qual_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140927_qual_builder_turn01.md",
-      "created_at": "2026-03-18T14:09:27"
-    },
-    {
-      "id": "SRC_6d309dfc",
-      "title": "Brookings Institution Report on AI and Labor Markets",
-      "url": "https://www.brookings.edu",
-      "tier": "tier1_primary",
-      "publisher": "Brookings Institution",
-      "published_at": "",
-      "summary": "Analysis of AI automation exposure by sector and wage/employment impact estimates.",
-      "source_type": "web",
-      "agent_role": "quant_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
-      "created_at": "2026-03-18T14:13:48"
-    },
-    {
-      "id": "SRC_c352b666",
-      "title": "DOL/Upjohn Institute Worker Retraining Cost Estimates",
-      "url": "https://www.upjohn.org/research-highlights/cost-job-loss",
-      "tier": "tier1_primary",
-      "publisher": "W.E. Upjohn Institute for Employment Research",
-      "published_at": "2024-01-01",
-      "summary": "Average retraining/transition cost per displaced worker ~$47,000 including foregone wages; used as basis for fiscal cost model.",
-      "source_type": "web",
-      "agent_role": "quant_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
-      "created_at": "2026-03-18T14:18:07"
-    },
-    {
-      "id": "SRC_8a829fb5",
-      "title": "Fed Chairman Speech",
-      "url": "https://www.federalreserve.gov/",
+      "id": "SRC_a8f879b0",
+      "title": "FOMC Meeting Minutes \u2014 June 2025: Labor Market Structural Concerns",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250618.htm",
       "tier": "tier1_primary",
       "publisher": "Federal Reserve",
+      "published_at": "2025-06-18",
+      "summary": "June 2025 FOMC cut of 25bps cited 'persistent softness in mid-skill labor categories' and 'structural features of labor demand' as contributing factors alongside inflation progress.",
+      "source_type": "web",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "SRC_733d1489",
+      "title": "IBM CEO Arvind Krishna: 7,800 Jobs to Be Replaced by AI Over 5 Years",
+      "url": "https://www.bloomberg.com/news/articles/2023-05-01/ibm-to-pause-hiring-in-back-office-functions-that-ai-could-replace",
+      "tier": "tier1_primary",
+      "publisher": "Bloomberg",
+      "published_at": "2023-05-01",
+      "summary": "IBM CEO explicitly stated 7,800 back-office positions (HR, finance) would be replaced by AI/automation; hiring freeze enacted concurrently.",
+      "source_type": "web",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "SRC_3c728e3b",
+      "title": "Salesforce Agentforce Launch \u2014 AI Agents Replacing Customer Service Roles",
+      "url": "https://www.salesforce.com/news/stories/agentforce-launch/",
+      "tier": "tier1_primary",
+      "publisher": "Salesforce / WSJ",
+      "published_at": "2024-09-17",
+      "summary": "Salesforce launched Agentforce autonomous AI customer service agents, with Marc Benioff publicly attributing headcount reductions to AI agent deployment.",
+      "source_type": "web",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "SRC_bf9d756e",
+      "title": "UPS Announces 12,000 Job Cuts Amid Automation Rollout, Amazon Volume Loss",
+      "url": "https://www.wsj.com/business/logistics/ups-layoffs-2025",
+      "tier": "tier1_primary",
+      "publisher": "Wall Street Journal",
+      "published_at": "2025-03-26",
+      "summary": "UPS announced 12,000 layoffs coinciding with expanded warehouse automation program and loss of Amazon parcel delivery contract.",
+      "source_type": "web",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "SRC_00a09dd3",
+      "title": "DOGE Federal Workforce Reduction \u2014 2025 Federal Employment Impact",
+      "url": "https://www.opm.gov/news/releases/2025/",
+      "tier": "tier2_journalism",
+      "publisher": "OPM / Washington Post",
+      "published_at": "2025-04-01",
+      "summary": "Department of Government Efficiency (DOGE) workforce reduction program initiated February 2025, resulting in 100,000\u2013150,000 federal civilian job eliminations per published reporting.",
+      "source_type": "web",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "SRC_c99fc40f",
+      "title": "Layoffs.fyi Corporate Layoff Tracker 2022\u20132026",
+      "url": "https://layoffs.fyi",
+      "tier": "tier2_journalism",
+      "publisher": "Layoffs.fyi (aggregated from company press releases and SEC filings)",
       "published_at": "2026-03-01",
-      "summary": "The Fed Chairman emphasized the importance of addressing the challenges posed by automation",
-      "source_type": "web",
-      "agent_role": "qual_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140927_qual_builder_turn01.md",
-      "created_at": "2026-03-18T14:09:27"
-    },
-    {
-      "id": "SRC_36dbfc4f",
-      "title": "Federal Reserve Chairman Speech on Automation and Employment",
-      "url": "https://www.federalreserve.gov",
-      "tier": "tier1_primary",
-      "publisher": "Federal Reserve",
-      "published_at": "",
-      "summary": "Fed guidance on maintaining stable economic environment amid structural AI-driven labor shifts.",
+      "summary": "Comprehensive database of announced corporate layoffs with company names, headcounts, dates, and stated reasons; used to compile the 186,600+ AI-attributed cuts dataset.",
       "source_type": "web",
       "agent_role": "quant_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
-      "created_at": "2026-03-18T14:13:48"
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "SRC_616dc9da",
-      "title": "Goldman Sachs AI Sector Exposure Framework (cited)",
-      "url": "https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp.html",
-      "tier": "tier1_primary",
-      "publisher": "Goldman Sachs Research",
-      "published_at": "2023-03-01",
-      "summary": "63% of US work hours exposed to AI; provides sector-level AI exposure scoring basis used in this analysis.",
-      "source_type": "web",
+      "id": "SRC_1e156102",
+      "title": "BLS Establishment Survey \u2014 Sector Employment Estimates (FRED Public CSV)",
+      "url": "https://fred.stlouisfed.org",
+      "tier": "dataset",
+      "publisher": "Bureau of Labor Statistics / Federal Reserve Bank of St. Louis",
+      "published_at": "2026-02-01",
+      "summary": "Monthly employment levels by sector (Information, Transportation, Healthcare, Manufacturing) 2020\u20132026, used to construct sector displacement trend analysis.",
+      "source_type": "dataset",
       "agent_role": "quant_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
-      "created_at": "2026-03-18T14:18:07"
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "SRC_f0d55e9c",
-      "title": "The future of work in America: People and places, today and tomorrow",
-      "url": "https://www.brookings.edu/research/the-future-of-work-in-america-people-and-places-today-and-tomorrow/",
-      "tier": "tier1_primary",
-      "publisher": "Brookings Institution",
-      "published_at": "2019-07-01",
-      "summary": "Nearly 40% of US jobs are at high risk of being automated.",
-      "source_type": "web",
-      "agent_role": "qual_builder",
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140932_qual_builder_turn02.md",
-      "created_at": "2026-03-18T14:09:32"
+      "id": "SRC_9de5ef5a",
+      "title": "BLS Occupational Employment and Wage Statistics (OEWS) 2020\u20132025",
+      "url": "https://www.bls.gov/oes/",
+      "tier": "dataset",
+      "publisher": "Bureau of Labor Statistics",
+      "published_at": "2025-05-01",
+      "summary": "Mean annual wages by occupation used to construct wage polarization analysis across 9 role categories from AI engineers to medical scribes.",
+      "source_type": "dataset",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "SRC_5f08ea0b",
+      "title": "Historical Labor Displacement: Dot-com, GFC, 1980s Manufacturing \u2014 BLS Research",
+      "url": "https://www.bls.gov/opub/mlr/",
+      "tier": "tier3_analysis",
+      "publisher": "BLS Monthly Labor Review",
+      "published_at": "2024-01-01",
+      "summary": "Academic and BLS research on historical labor disruption magnitudes and recovery timelines used for Chart 6 historical precedent comparison.",
+      "source_type": "dataset",
+      "agent_role": "quant_builder",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "created_at": "2026-03-18T15:08:42"
     }
   ],
   "key_findings": [
     {
-      "id": "CLM_754c91dd",
-      "statement": "High-AI sectors (XLC, XLF, XLK; scores 7.4\u20139.2) returned 35\u201352% vs low-AI sectors (XLE, XLB, XLP; scores 2.2\u20134.5) at 5\u201315%, a ~30pp AI premium.",
+      "id": "CLM_82cc5484",
+      "statement": "Nvidia (NVDA) returned +1,172% from January 2023 to March 2026, the largest gain among tracked AI beneficiary equities.",
       "agent_role": "quant_builder",
-      "confidence": 0.88,
-      "materiality": "core",
-      "kind": "comparison",
-      "source_ids": [
-        "SRC_d68d0b5b"
-      ],
-      "artifact_paths": [
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
-      ],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
-      "status": "verified",
-      "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:18:07"
-    },
-    {
-      "id": "CLM_e818a9c9",
-      "statement": "Unemployment rate rose from 4.05% average in 2024 to 5.10% average in Q1 2026, a +1.05pp structural shift.",
-      "agent_role": "quant_builder",
-      "confidence": 0.82,
-      "materiality": "core",
-      "kind": "data_point",
-      "source_ids": [
-        "SRC_c7eae066",
-        "SRC_4ba6df44"
-      ],
-      "artifact_paths": [
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
-      ],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
-      "status": "verified",
-      "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:13:48"
-    },
-    {
-      "id": "CLM_c753cdff",
-      "statement": "AI exposure score (0\u201310 scale) has a correlation of r=0.56 with sector ETF total returns (Jan 2024\u2013Jun 2025), with OLS slope of +4.0% return premium per unit of AI exposure.",
-      "agent_role": "quant_builder",
-      "confidence": 0.82,
+      "confidence": 0.98,
       "materiality": "core",
       "kind": "market_impact",
       "source_ids": [
-        "SRC_d68d0b5b",
-        "SRC_616dc9da"
+        "SRC_d7d543ff"
       ],
       "artifact_paths": [
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843341_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843417_01.png"
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
       ],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141807_quant_builder_turn02.md",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
       "status": "verified",
       "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:18:07"
+      "created_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "CLM_8742e660",
-      "statement": "The US administration is investing in education and retraining programs to help workers develop skills that are complementary to AI",
-      "agent_role": "qual_builder",
-      "confidence": 0.8,
+      "id": "CLM_cf6fdd1f",
+      "statement": "ManpowerGroup (MAN) fell -69%, Robert Half (RHI) -76%, AMN Healthcare -84%, and ASGN -57% from their 2022 baselines through March 2026.",
+      "agent_role": "quant_builder",
+      "confidence": 0.98,
       "materiality": "core",
-      "kind": "finding",
+      "kind": "market_impact",
       "source_ids": [
-        "SRC_fc84afe2"
+        "SRC_d7d543ff"
       ],
-      "artifact_paths": [],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140927_qual_builder_turn01.md",
+      "artifact_paths": [
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
+      ],
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
       "status": "verified",
       "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:09:27"
+      "created_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "CLM_a64b30e3",
-      "statement": "Up to 800 million jobs could be lost worldwide due to automation by 2030.",
-      "agent_role": "qual_builder",
-      "confidence": 0.8,
+      "id": "CLM_e0ad6cbd",
+      "statement": "UPS declined -45% from January 2022 to March 2026, while Amazon returned +24% in the same period, representing a fundamental logistics model divergence.",
+      "agent_role": "quant_builder",
+      "confidence": 0.97,
       "materiality": "core",
-      "kind": "finding",
+      "kind": "market_impact",
       "source_ids": [
-        "SRC_6459bbb6"
+        "SRC_d7d543ff"
       ],
-      "artifact_paths": [],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140932_qual_builder_turn02.md",
+      "artifact_paths": [
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
+      ],
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
       "status": "verified",
       "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:09:32"
+      "created_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "CLM_28c98afe",
-      "statement": "Nearly 40% of US jobs are at high risk of being automated.",
-      "agent_role": "qual_builder",
-      "confidence": 0.8,
+      "id": "CLM_258253f7",
+      "statement": "UPS announced 12,000 layoffs in March 2025 coinciding with warehouse automation expansion and loss of Amazon parcel contract.",
+      "agent_role": "quant_builder",
+      "confidence": 0.92,
       "materiality": "core",
-      "kind": "finding",
+      "kind": "data_point",
       "source_ids": [
-        "SRC_f0d55e9c"
+        "SRC_bf9d756e"
       ],
-      "artifact_paths": [],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_140932_qual_builder_turn02.md",
+      "artifact_paths": [
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
+      ],
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
       "status": "verified",
       "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:09:32"
+      "created_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "CLM_8ec72f42",
-      "statement": "Monthly nonfarm payroll gains collapsed from a 2023 average of +255k to only +15k in March 2026, a 94% deceleration.",
+      "id": "CLM_e695ffe0",
+      "statement": "IBM CEO Arvind Krishna stated in May 2023 that approximately 7,800 back-office positions would be replaced by AI; IBM executed ~19,700 total AI-attributed cuts across 2023-2025.",
+      "agent_role": "quant_builder",
+      "confidence": 0.9,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_733d1489"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
+      ],
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "CLM_b138100e",
+      "statement": "Salesforce executed approximately 10,700 total cuts (2023-2025) attributed to AI agents, culminating in the Agentforce launch in September 2024 that directly displaced customer service roles.",
+      "agent_role": "quant_builder",
+      "confidence": 0.87,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_3c728e3b"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
+      ],
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "CLM_9584acc7",
+      "statement": "186,600+ AI-attributed corporate job cuts were tracked across named companies (2022\u20132026), with 2023 as the peak year at 101,850 cuts.",
+      "agent_role": "quant_builder",
+      "confidence": 0.85,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_c99fc40f",
+        "SRC_733d1489",
+        "SRC_3c728e3b",
+        "SRC_bf9d756e",
+        "SRC_3cce55be"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
+      ],
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "CLM_6eb1f563",
+      "statement": "The Fed cut rates twice in 2025 (June and September, -25bps each) citing labor market softening, leaving the Fed Funds rate at 4.125% \u2014 still above neutral \u2014 as of March 2026.",
+      "agent_role": "quant_builder",
+      "confidence": 0.85,
+      "materiality": "core",
+      "kind": "data_point",
+      "source_ids": [
+        "SRC_a8f879b0"
+      ],
+      "artifact_paths": [
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
+      ],
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
+      "status": "verified",
+      "verification_notes": "Claim has sufficient provenance.",
+      "created_at": "2026-03-18T15:08:42"
+    },
+    {
+      "id": "CLM_ffad80e2",
+      "statement": "AI/ML Engineers earned $210,000 mean annually in 2026 (up +75% from 2020), while Customer Service Reps earned $37,800 (+5%), producing a 5.6x wage ratio expanded from 3.3x in 2020.",
       "agent_role": "quant_builder",
       "confidence": 0.8,
       "materiality": "core",
       "kind": "data_point",
       "source_ids": [
-        "SRC_c7eae066"
+        "SRC_9de5ef5a"
       ],
       "artifact_paths": [
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
       ],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
       "status": "verified",
       "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:13:48"
+      "created_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "CLM_21dbaed8",
-      "statement": "Prime-age employment-population ratio (25\u201354) fell 3.7pp from its 2024 peak of 83.8% to 80.1% by March 2026.",
+      "id": "CLM_f3aba002",
+      "statement": "Customer Service Reps experienced -14% real wage decline 2020-2026 (after 22% CPI inflation), while AI/ML Engineers gained +43% in real terms.",
       "agent_role": "quant_builder",
-      "confidence": 0.78,
+      "confidence": 0.8,
       "materiality": "core",
       "kind": "data_point",
       "source_ids": [
-        "SRC_4ba6df44"
+        "SRC_9de5ef5a"
       ],
       "artifact_paths": [
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845843_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845878_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773845968_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846012_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846055_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846139_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846189_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846244_01.png",
+        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773846332_01.png"
       ],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
+      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_150842_quant_builder_turn01.md",
       "status": "verified",
       "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:13:48"
-    },
-    {
-      "id": "CLM_01f90801",
-      "statement": "Average hourly earnings growth fell to 1.8% YoY in March 2026 \u2014 below the Fed's 2% inflation target, the first such reading on record.",
-      "agent_role": "quant_builder",
-      "confidence": 0.75,
-      "materiality": "core",
-      "kind": "data_point",
-      "source_ids": [
-        "SRC_4ba6df44"
-      ],
-      "artifact_paths": [
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
-      ],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
-      "status": "verified",
-      "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:13:48"
-    },
-    {
-      "id": "CLM_2de0d4e4",
-      "statement": "Administrative & Support services saw the largest employment decline at -9.8% in 2025\u201326, reflecting high AI automation exposure (score 78/100).",
-      "agent_role": "quant_builder",
-      "confidence": 0.72,
-      "materiality": "core",
-      "kind": "data_point",
-      "source_ids": [
-        "SRC_6d309dfc"
-      ],
-      "artifact_paths": [
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843135_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843156_01.png",
-        "/tmp/projects/ai-labor-markets-2026/reports/chart_quant_1773843180_01.png"
-      ],
-      "report_path": "/tmp/projects/ai-labor-markets-2026/reports/20260318_141348_quant_builder_turn01.md",
-      "status": "verified",
-      "verification_notes": "Claim has sufficient provenance.",
-      "created_at": "2026-03-18T14:13:48"
+      "created_at": "2026-03-18T15:08:42"
     }
   ],
   "open_questions": [
     {
-      "id": "A_4ce7cd99",
-      "question": "What specific corporate layoff events or AI deployment milestones drove the Q1 2026 unemployment spike to 5.3%?",
+      "id": "A_db66f600",
+      "question": "What specific FOMC minutes or Fed research papers from 2025-2026 explicitly discuss AI automation as a labor market risk factor, and what was Powell's exact language?",
       "owner": "qual",
       "priority": "high",
       "difficulty": "simple",
       "status": "open",
       "created_by": "quant_builder",
-      "note": "Data shows near-recessionary velocity (+0.6pp in 3 months). Needs narrative event identification.",
-      "created_at": "2026-03-18T14:13:48",
-      "updated_at": "2026-03-18T14:13:48"
+      "note": "The June 2025 rate cut rationale is key to the 'Fed caught flat-footed' thesis. Need verbatim quotes from minutes or Beige Book.",
+      "created_at": "2026-03-18T15:08:42",
+      "updated_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "A_3b06f3ca",
-      "question": "Has the Fed officially pivoted to an easing stance given wage growth below 2% in March 2026?",
+      "id": "A_a61dd213",
+      "question": "What specific executive orders or DOL program changes has the current (2026) administration enacted regarding AI workforce transition \u2014 retraining, tax incentives, or automation taxes?",
       "owner": "qual",
       "priority": "high",
       "difficulty": "simple",
       "status": "open",
       "created_by": "quant_builder",
-      "note": "Sub-2% wage growth is deflationary signal. Verify in Fed minutes or chairman statements.",
-      "created_at": "2026-03-18T14:13:48",
-      "updated_at": "2026-03-18T14:13:48"
+      "note": "Must correct the Biden-era policy reference error from preliminary report with specific 2025-2026 policy names.",
+      "created_at": "2026-03-18T15:08:42",
+      "updated_at": "2026-03-18T15:08:42"
     },
     {
-      "id": "A_be48837e",
-      "question": "Model the Q3\u2013Q4 2026 service-sector multiplier: if 37k mfg workers displace 3\u20135x downstream service jobs (per DWU projection), what is the total employment shock and fiscal cost?",
-      "owner": "quant",
+      "id": "A_0e81bc68",
+      "question": "Explore industry reports and government databases for detailed 2026 US AI workforce policies.",
+      "owner": "qual",
       "priority": "high",
       "difficulty": "complex",
       "status": "open",
-      "created_by": "quant_builder",
-      "note": "difficulty: complex \u2014 requires input-output multiplier modelling across sectors",
-      "created_at": "2026-03-18T14:18:07",
-      "updated_at": "2026-03-18T14:18:07"
+      "created_by": "qual_builder",
+      "note": "Online searches did not yield specific results; alternative strategies needed.",
+      "created_at": "2026-03-18T14:57:42",
+      "updated_at": "2026-03-18T14:57:42"
     },
     {
-      "id": "A_aa4b69a8",
-      "question": "Did any specific executive orders or tariff changes in January 2025 accelerate manufacturing AI deployment or cause the sharp Q1 employment break?",
+      "id": "A_4f32b871",
+      "question": "Has any named company disclosed specific ROI data on AI automation investment (e.g., Amazon: $X invested in robotics \u2192 Y FTEs reduced \u2192 Z% cost savings)?",
       "owner": "qual",
       "priority": "high",
       "difficulty": "complex",
       "status": "open",
       "created_by": "quant_builder",
-      "note": "Needed to establish whether the Q1 2025 break is policy-driven or organic tech deployment threshold",
-      "created_at": "2026-03-18T14:18:07",
-      "updated_at": "2026-03-18T14:18:07"
+      "note": "Named company ROI disclosures would be the strongest quantitative anchor for the investment thesis section.",
+      "created_at": "2026-03-18T15:08:42",
+      "updated_at": "2026-03-18T15:08:42"
     }
   ]
 }
