@@ -1,6 +1,6 @@
 [
   {
-    "id": "A_c59bfe46",
+    "id": "A_db56a616",
     "question": "Investigate the geopolitical context, policy responses, and key actors relevant to this research brief.",
     "owner": "qual",
     "priority": "high",
@@ -8,11 +8,11 @@
     "status": "done",
     "created_by": "planner",
     "note": "",
-    "created_at": "2026-03-18T16:00:35",
-    "updated_at": "2026-03-18T16:01:14"
+    "created_at": "2026-03-18T16:12:01",
+    "updated_at": "2026-03-18T16:12:58"
   },
   {
-    "id": "A_77d265a8",
+    "id": "A_a46a09a1",
     "question": "Fetch market and economic data, produce charts, and quantify the financial and statistical claims.",
     "owner": "quant",
     "priority": "high",
@@ -20,79 +20,7 @@
     "status": "in_progress",
     "created_by": "planner",
     "note": "",
-    "created_at": "2026-03-18T16:00:35",
-    "updated_at": "2026-03-18T16:00:38"
-  },
-  {
-    "id": "A_2033dc4e",
-    "question": "Find specific Trump administration policies and 2026 labor market impacts of AI-driven automation.",
-    "owner": "qual",
-    "priority": "high",
-    "difficulty": "complex",
-    "status": "done",
-    "created_by": "qual_builder",
-    "note": "Refine web searches or review policy archives for comprehensive updates.",
-    "created_at": "2026-03-18T16:01:14",
-    "updated_at": "2026-03-18T16:02:22"
-  },
-  {
-    "id": "A_579c8fae",
-    "question": "Seek sector-specific investment data reflecting automation impact.",
-    "owner": "quant",
-    "priority": "medium",
-    "difficulty": "complex",
-    "status": "open",
-    "created_by": "qual_builder",
-    "note": "Cross-reference with known company statements and market trends pre-2026.",
-    "created_at": "2026-03-18T16:01:14",
-    "updated_at": "2026-03-18T16:01:14"
-  },
-  {
-    "id": "A_f162dcaa",
-    "question": "Explore proprietary and institutional databases for Trump's administration memos on AI for 2026.",
-    "owner": "qual",
-    "priority": "high",
-    "difficulty": "synthesis",
-    "status": "done",
-    "created_by": "qual_builder",
-    "note": "Potential lack of readily available information online requires deep dive.",
-    "created_at": "2026-03-18T16:02:22",
-    "updated_at": "2026-03-18T16:03:00"
-  },
-  {
-    "id": "A_c5594c42",
-    "question": "Check institutional databases for Trump administration 2026 AI policies.",
-    "owner": "qual",
-    "priority": "high",
-    "difficulty": "complex",
-    "status": "done",
-    "created_by": "qual_builder",
-    "note": "No results returned from web searches; specialized databases likely required.",
-    "created_at": "2026-03-18T16:03:00",
-    "updated_at": "2026-03-18T16:04:31"
-  },
-  {
-    "id": "A_87fb4a74",
-    "question": "Where can we find specific 2026 policies on AI and labor from the Trump administration?",
-    "owner": "qual",
-    "priority": "high",
-    "difficulty": "complex",
-    "status": "done",
-    "created_by": "qual_builder",
-    "note": "Explicit documentation of AI policies under Trump needed.",
-    "created_at": "2026-03-18T16:04:31",
-    "updated_at": "2026-03-18T16:04:58"
-  },
-  {
-    "id": "A_8f65ae20",
-    "question": "Where do we retrieve detailed 2026 AI-related policy actions from the Trump administration?",
-    "owner": "qual",
-    "priority": "high",
-    "difficulty": "simple",
-    "status": "open",
-    "created_by": "qual_builder",
-    "note": "Need access to specialized databases or think tank publications.",
-    "created_at": "2026-03-18T16:04:58",
-    "updated_at": "2026-03-18T16:04:58"
+    "created_at": "2026-03-18T16:12:01",
+    "updated_at": "2026-03-18T16:12:04"
   }
 ]

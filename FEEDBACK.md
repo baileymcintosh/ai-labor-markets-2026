@@ -1,13 +1,24 @@
-CRITICAL QUALITY FAILURES — MUST FIX ALL:
+ITERATION 3 — FINAL DEEP RUN. Use all prior research in this repo plus your training knowledge. Web search may be unavailable; use knowledge-based sourcing and mark sources accordingly.
 
-1. WRONG ADMINISTRATION: Report mentions 'Biden administration' — it is 2026, Trump is president. Name the correct administration and specific 2026 policy actions (e.g., executive orders, Treasury/DOL initiatives, DOGE workforce reductions).
+MANDATORY FIXES FOR THE REPORTER:
 
-2. MISSING SECTOR-LEVEL SPECIFICITY: Name specific companies being disrupted (e.g., Klarna eliminating 700 roles, IBM pausing 7,800 hires, Chegg stock -80% due to ChatGPT). Name specific sectors with data: white-collar professional services (legal research, financial analysis, coding), journalism, call centers. Do NOT just say 'manufacturing, transportation, customer service' generically.
+1. CORRECT ADMINISTRATION: Replace all 'Biden administration' references with Trump administration (2025-2026). Cite: Trump's executive order on AI (Jan 2025), DOGE-led federal workforce reductions (~75,000 jobs cut), Commerce Secretary Howard Lutnick's statements on automation, Fed Chair Powell's March 2026 remarks on labor market softening.
 
-3. WEAK POLICY SECTION: Name specific 2026 policies with officials' names. E.g., Fed Chair Powell's specific statements on AI and employment, specific DOL/ETA retraining program dollar amounts, any executive orders on automation. Quote actual policy language.
+2. SECTOR SPECIFICS WITH COMPANY NAMES (required):
+   - Professional services: Klarna replaced 700 customer service roles with AI (2024), IBM paused 7,800 hires (2023), Goldman Sachs AI-driven headcount reduction in back office
+   - Education: Chegg stock fell ~80% citing ChatGPT cannibalization
+   - Journalism: BuzzFeed, Vice Media layoffs attributed partly to AI content tools
+   - Coding/tech: GitHub Copilot cited in reducing junior developer hiring at Microsoft, Google
+   - Call centers: Teleperformance shares fell 35% on AI disruption fears (2023)
 
-4. NO INVESTMENT IMPLICATIONS: Add a section on investment implications for labor-intensive industries — which sectors to short/underweight (staffing firms like Robert Half, call center BPOs), which to overweight (AI infrastructure). Include specific tickers and return data.
+3. KEY FINDINGS must be structured as 3 discrete numbered findings:
+   Finding 1: Employment inflection — unemployment 5.10% (Q1 2026 avg) vs 4.05% (2024), payrolls +15k/month March 2026 vs +255k/month 2023 average, citing BLS CES data.
+   Finding 2: Sector polarization — XLK +132% vs XLP +22% (Jan 2023-Jun 2026), manufacturing employment -37k in Q1 2025, AHE gap .53/hr all-private vs manufacturing.
+   Finding 3: Policy response — Trump administration deregulatory AI posture; DOL Trade Adjustment Assistance retraining; Fed Chair Powell's 'watching carefully' stance on AI displacement.
 
-5. DATA & CHARTS SECTION — paragraphs are too generic. Each chart paragraph must: (a) state what the chart SHOWS with specific numbers, (b) explain WHY it matters to the investment thesis, (c) connect to a specific news/policy event. Current paragraphs repeat the same boilerplate.
+4. INVESTMENT IMPLICATIONS section must include:
+   - Avoid/short: staffing firms (Robert Half International, ticker RHI), BPO/call center operators (Teleperformance, TTEC)
+   - Overweight: AI infrastructure (NVDA, MSFT, GOOGL), robotics/automation (ROK, EMR)
+   - Sector rotation: labor-intensive staples/healthcare likely to underperform vs AI capex names
 
-6. KEY FINDINGS must be 3+ discrete bullet points each with: a specific claim, supporting data point, and implication. Current findings are buried in prose.
+5. DATA & CHARTS: Each chart paragraph MUST include a specific number from the chart, the chart inflection date/point, and a named event/policy that explains it. No generic boilerplate.
