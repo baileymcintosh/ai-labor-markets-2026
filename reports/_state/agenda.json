@@ -1,6 +1,6 @@
 [
   {
-    "id": "A_db56a616",
+    "id": "A_f7da8b05",
     "question": "Investigate the geopolitical context, policy responses, and key actors relevant to this research brief.",
     "owner": "qual",
     "priority": "high",
@@ -8,11 +8,11 @@
     "status": "done",
     "created_by": "planner",
     "note": "",
-    "created_at": "2026-03-18T16:12:01",
-    "updated_at": "2026-03-18T16:12:58"
+    "created_at": "2026-03-18T16:47:47",
+    "updated_at": "2026-03-18T16:48:37"
   },
   {
-    "id": "A_a46a09a1",
+    "id": "A_67a052fc",
     "question": "Fetch market and economic data, produce charts, and quantify the financial and statistical claims.",
     "owner": "quant",
     "priority": "high",
@@ -20,7 +20,31 @@
     "status": "in_progress",
     "created_by": "planner",
     "note": "",
-    "created_at": "2026-03-18T16:12:01",
-    "updated_at": "2026-03-18T16:12:04"
+    "created_at": "2026-03-18T16:47:47",
+    "updated_at": "2026-03-18T16:47:50"
+  },
+  {
+    "id": "A_75086e1e",
+    "question": "Verify Nvidia's stock performance from 2022-2025",
+    "owner": "quant",
+    "priority": "high",
+    "difficulty": "complex",
+    "status": "open",
+    "created_by": "qual_builder",
+    "note": "Looking for substantial performance metrics.",
+    "created_at": "2026-03-18T16:48:37",
+    "updated_at": "2026-03-18T16:48:37"
+  },
+  {
+    "id": "A_3d8d3de9",
+    "question": "Verify changes in employment-population ratio and nonfarm payrolls",
+    "owner": "quant",
+    "priority": "medium",
+    "difficulty": "complex",
+    "status": "open",
+    "created_by": "qual_builder",
+    "note": "Correlate with structural impacts of AI.",
+    "created_at": "2026-03-18T16:48:37",
+    "updated_at": "2026-03-18T16:48:37"
   }
 ]

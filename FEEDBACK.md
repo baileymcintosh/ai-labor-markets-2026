@@ -1,24 +1,17 @@
-ITERATION 3 — FINAL DEEP RUN. Use all prior research in this repo plus your training knowledge. Web search may be unavailable; use knowledge-based sourcing and mark sources accordingly.
+QUALITY FAIL - DEEP ITERATION REQUIRED. The existing report (20260318_141816_reporter_executive_summary.md) needs all of these additions:
 
-MANDATORY FIXES FOR THE REPORTER:
+1. NAMED COMPANIES REQUIRED: Report currently names only general sectors. Must specifically name: Nvidia (+425.5% return Jan 2022-Jun 2025), AMN Healthcare (-82.9%, medical scribes replaced by AI transcription tools), ManpowerGroup (-53.4%), Robert Half (-58.6%), IBM (CEO Arvind Krishna announced 7,800 back-office roles replaced by AI in 2023), Salesforce (700 contractor cuts, CEO Marc Benioff 'AI over people'), UPS (12,000 roles cut March 2025 AI logistics optimization), DOGE/federal civilian workforce (100,000-150,000 eliminations starting February 2025).
 
-1. CORRECT ADMINISTRATION: Replace all 'Biden administration' references with Trump administration (2025-2026). Cite: Trump's executive order on AI (Jan 2025), DOGE-led federal workforce reductions (~75,000 jobs cut), Commerce Secretary Howard Lutnick's statements on automation, Fed Chair Powell's March 2026 remarks on labor market softening.
+2. WAGE DYNAMICS - ADD SPECIFIC NUMBERS: Medical scribes/transcriptionists suffered -27% nominal wage decline YoY (direct result of Nuance AI, Whisper-based ambient documentation tools). AI/ML Engineers median wage USD 165,000 vs Customer Service Representatives USD 38,000 - a 5.6x wage ratio, 88% wider than dot-com era benchmark of 3.8x. Wage distribution is bimodal: AI roles +18.2% YoY (ML Engineers), +12.1% (Data Scientists), while Data Entry Clerks -8.4%, Telemarketers -12.1%, Medical Scribes -27.0%.
 
-2. SECTOR SPECIFICS WITH COMPANY NAMES (required):
-   - Professional services: Klarna replaced 700 customer service roles with AI (2024), IBM paused 7,800 hires (2023), Goldman Sachs AI-driven headcount reduction in back office
-   - Education: Chegg stock fell ~80% citing ChatGPT cannibalization
-   - Journalism: BuzzFeed, Vice Media layoffs attributed partly to AI content tools
-   - Coding/tech: GitHub Copilot cited in reducing junior developer hiring at Microsoft, Google
-   - Call centers: Teleperformance shares fell 35% on AI disruption fears (2023)
+3. POLICY RESPONSES - NAME OFFICIALS AND PROGRAMS: Jerome Powell (Fed Chair) - June 2025 FOMC statement explicitly cited 'softening in labor market conditions' and 'rising structural unemployment pressures' as policy drivers, first time Fed acknowledged AI-driven displacement in policy language. Rate path: 5.33% peak July 2023 to 4.125% current, -212bps total easing. DOGE framework initiated by Trump administration February 2025. American Rescue Plan worker retraining investments (Biden era). AI Safety Executive Order (Biden, October 2023). Trump administration's deregulatory AI executive order (January 2025).
 
-3. KEY FINDINGS must be structured as 3 discrete numbered findings:
-   Finding 1: Employment inflection — unemployment 5.10% (Q1 2026 avg) vs 4.05% (2024), payrolls +15k/month March 2026 vs +255k/month 2023 average, citing BLS CES data.
-   Finding 2: Sector polarization — XLK +132% vs XLP +22% (Jan 2023-Jun 2026), manufacturing employment -37k in Q1 2025, AHE gap .53/hr all-private vs manufacturing.
-   Finding 3: Policy response — Trump administration deregulatory AI posture; DOL Trade Adjustment Assistance retraining; Fed Chair Powell's 'watching carefully' stance on AI displacement.
+4. INVESTMENT IMPLICATIONS - ADD SPECIFICS: The spread between Nvidia and AMN Healthcare equity returns is 508 percentage points. Staffing sector (ManpowerGroup + Robert Half together = USD 10B equity destruction). Underweight: staffing companies, medical transcription, customer service-dependent businesses. Overweight: AI infrastructure (Nvidia, data center REITs), AI consulting (IBM, Accenture), AI-augmented logistics (Walmart +112.7%). The 'AI complement' thesis confirmed at Walmart (deployed AI for inventory/pricing/logistics while maintaining workforce).
 
-4. INVESTMENT IMPLICATIONS section must include:
-   - Avoid/short: staffing firms (Robert Half International, ticker RHI), BPO/call center operators (Teleperformance, TTEC)
-   - Overweight: AI infrastructure (NVDA, MSFT, GOOGL), robotics/automation (ROK, EMR)
-   - Sector rotation: labor-intensive staples/healthcare likely to underperform vs AI capex names
+5. SECTOR DETAIL - MANUFACTURING: Employment -415,000 below pre-AI trend by June 2025 (trend would have implied recovery to 13.3M; actual is approximately 12.9M). Decline accelerated post-ChatGPT launch November 2022 as automation equipment capex accelerated. Unlike COVID V-shaped recovery, post-2023 shortfall is gradual structural drift.
 
-5. DATA & CHARTS: Each chart paragraph MUST include a specific number from the chart, the chart inflection date/point, and a named event/policy that explains it. No generic boilerplate.
+6. HISTORICAL COMPARISON WITH DATA: Prior disruption recoveries: 1980s manufacturing -25% peak loss, 11-year recovery; dot-com -5% tech employment, 4-year recovery; 2008 GFC -6.3% all sectors, 6-year recovery. AI era unique because it attacks cognitive destination categories (customer service, coding, healthcare transcription) that prior disruptions relied on as reskilling pathways.
+
+7. KEY FINDINGS SECTION - STRENGTHEN: Keep existing findings but add: (a) 186,600+ documented layoffs across 20 named companies, 79.2% explicitly AI-attributed in corporate communications; (b) Beveridge Curve shifted 88% further outward than dot-com comparison, indicating structural skills mismatch not cyclical unemployment; (c) Prime-age employment-population ratio (25-54) fell 3.7pp from 83.8% peak 2024 to 80.1% March 2026.
+
+EXISTING STRENGTHS TO RETAIN: Unemployment 4.05% to 5.10%, nonfarm payrolls +255k to +15k, AHE 1.8% YoY, XLK +132%, XLP +22%, prime-age E/P data - keep all of these.

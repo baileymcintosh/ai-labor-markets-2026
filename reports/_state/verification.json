@@ -1,42 +1,27 @@
 {
   "verdict": "FAIL",
-  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 7\n**Sources reviewed:** 0\n**Open agenda items:** 1\n\n## Findings\n1. [HIGH] The Trump administration in 2025-2026 has taken a deregulatory approach to AI, aiming to foster innovation while addressing economic impacts. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n2. [HIGH] The Department of Government Efficiency has reduced approximately 75,000 federal jobs to increase efficiency with AI. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n3. [HIGH] Federal Reserve Chair Jerome Powell expressed caution over AI's impact on labor markets in March 2026. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n4. [MEDIUM] The Department of Labor has enhanced the Trade Adjustment Assistance program to aid workers displaced by AI. \u2014 Claim has no linked sources or data artifacts.\n5. [HIGH] Klarna replaced 700 customer service roles with AI in 2024, impacting the professional services sector. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n6. [HIGH] Chegg's stock fell approximately 80% due to competition from AI tools like ChatGPT. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n7. [HIGH] Teleperformance shares fell 35% on AI disruption fears in 2023. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
+  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 4\n**Sources reviewed:** 0\n**Open agenda items:** 3\n\n## Findings\n1. [HIGH] Federal Reserve's June 2025 meeting acknowledged AI-driven displacement as a significant factor in the labor market. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n2. [MEDIUM] Trump administration's February 2025 executive order emphasized deregulatory measures to advance AI deployment. \u2014 Claim has no linked sources or data artifacts.\n3. [HIGH] Nvidia experienced a 425.5% return between 2022 to mid-2025 driven by its role in AI infrastructure. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n4. [HIGH] AI's impact led to significant named company workforce reductions, including AMN Healthcare, IBM, and Salesforce. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
   "findings": [
     {
       "severity": "high",
-      "claim": "The Trump administration in 2025-2026 has taken a deregulatory approach to AI, aiming to foster innovation while addressing economic impacts.",
-      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
-    },
-    {
-      "severity": "high",
-      "claim": "The Department of Government Efficiency has reduced approximately 75,000 federal jobs to increase efficiency with AI.",
-      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
-    },
-    {
-      "severity": "high",
-      "claim": "Federal Reserve Chair Jerome Powell expressed caution over AI's impact on labor markets in March 2026.",
+      "claim": "Federal Reserve's June 2025 meeting acknowledged AI-driven displacement as a significant factor in the labor market.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
       "severity": "medium",
-      "claim": "The Department of Labor has enhanced the Trade Adjustment Assistance program to aid workers displaced by AI.",
+      "claim": "Trump administration's February 2025 executive order emphasized deregulatory measures to advance AI deployment.",
       "note": "Claim has no linked sources or data artifacts."
     },
     {
       "severity": "high",
-      "claim": "Klarna replaced 700 customer service roles with AI in 2024, impacting the professional services sector.",
+      "claim": "Nvidia experienced a 425.5% return between 2022 to mid-2025 driven by its role in AI infrastructure.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
       "severity": "high",
-      "claim": "Chegg's stock fell approximately 80% due to competition from AI tools like ChatGPT.",
-      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
-    },
-    {
-      "severity": "high",
-      "claim": "Teleperformance shares fell 35% on AI disruption fears in 2023.",
+      "claim": "AI's impact led to significant named company workforce reductions, including AMN Healthcare, IBM, and Salesforce.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     }
   ],
-  "created_at": "2026-03-18T16:13:00"
+  "created_at": "2026-03-18T16:48:39"
 }
