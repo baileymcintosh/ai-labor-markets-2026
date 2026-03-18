@@ -1,0 +1,47 @@
+# Qualitative Research — Consolidated (1 turns)
+
+| Field | Value |
+|---|---|
+| Agent | Qual Builder (OpenAI gpt-4o) |
+| Date | 2026-03-18 15:48:18 |
+
+---
+
+## Turn 1
+
+## Findings
+
+### Geopolitical Context and Policy Responses
+
+Given that direct search results were unavailable for newly published information on the 2026 labor market scenarios, we will leverage quantitative findings as an anchor into the ongoing situation and policy landscape.
+
+1. **Federal Workforce Reductions:** A key policy of the current administration involves a substantial reduction in the federal workforce, termed DOGE, starting February 2025 with cuts ranging between 100,000 to 150,000 federal civilian positions. This workforce streamlining aligns with an administration seeking efficiency and cost-saving measures amidst a shifting economic environment primarily driven by advances in AI and automation.
+
+2. **Federal Reserve's Monetary Policy:** The Fed's current interest rate stands at 4.125%, shaped by two rate cuts in June and September 2025. These were explicitly tied to labor market conditions being softened by AI automation impacts. The central bank has shifted its focus towards the ramifications of technological impacts on employment, indicating an adaptation in their response function.
+
+3. **Sectoral Impacts of AI Automation:** Quant data indicate significant disruptions across various sectors:
+   - IBM has specifically replaced 7,800 positions with AI technologies.
+   - UPS, facing operational efficiency pressures, announced 12,000 layoffs in March 2025.
+   - In healthcare, AMN suffered a drastic 84% stock decline with medical scribes experiencing a 27% decrease in nominal wages.
+
+### Historical Precedent and Skills Mismatch
+
+The historical context reinforces the current narratives of disruption due to technological evolution:
+- Compared to the dot-com bubble and the 2009 global financial crisis, there is an 88% wider skills mismatch in 2026. This emphasizes the demand for re-skilling and adapting the workforce to embrace high-demand AI-driven roles.
+- Past global disruptions have set precedents in how labor markets react, showing parallels in adaptation despite different technological landscapes.
+
+### Investment Implications and Business Dynamics
+
+Investment patterns indicate varied business fortune tied to AI adoption:
+- Companies like Nvidia saw gains up to 1172%, reflecting their foundational roles in AI hardware and software developments.
+- Conversely, labor-intensive entities such as Robert Half and ManpowerGroup faced significant downturns with 76% and 69% declines, respectively, indicating the obsolescence of traditional workforce models and a pivot towards AI-enabled efficiencies.
+
+## Key Findings
+
+- The core policies and economic adjustments in the US are reactions to AI's impact on labor markets, with strategic workforce reductions and monetary policies aimed towards stabilizing employment dynamics amid broad technological adoption.
+- Investment trends underscore a clear demarcation in success between tech innovators versus traditional workforce-reliant industries.
+
+## Questions for Quant
+
+1. Can you cross-verify the effect of Federal workforce reductions on specific sectors within your dataset?
+2. Check if there are unusual labor shortages or demand spikes in sectors not highlighted here for 2025-2026 considering the focused AI talent expansion.
