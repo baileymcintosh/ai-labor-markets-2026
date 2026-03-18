@@ -1,0 +1,1 @@
+Impact of AI-driven automation on US labor markets in 2026: which sectors are being disrupted, current employment data trends, wage dynamics, policy responses from the administration and Fed, and investment implications for labor-intensive industries.
