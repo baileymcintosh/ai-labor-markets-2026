@@ -1,27 +1,37 @@
 {
   "verdict": "FAIL",
-  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 69\n**Sources reviewed:** 47\n**Open agenda items:** 12\n\n## Findings\n1. [HIGH] The current US administration's primary labor policy signal is large-scale federal workforce reductions under the DOGE initiative starting February 2025. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n2. [HIGH] The Federal Reserve's interest rate is currently at 4.125% following labor market adjustments in response to AI impacts during 2025. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n3. [MEDIUM] A dramatic skills mismatch has arisen, being 88% wider than in previous disruptions like the dot-com bubble or the 2009 financial crisis. \u2014 Claim has no linked sources or data artifacts.\n4. [HIGH] The adoption of AI has led to significant economic shifts with companies like Nvidia reaping over 1172% gains. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
+  "summary": "# Verification Report\n\n**Verdict:** FAIL\n**Claims reviewed:** 6\n**Sources reviewed:** 0\n**Open agenda items:** 3\n\n## Findings\n1. [HIGH] The Trump administration likely continues a deregulatory approach to AI-driven automation, emphasizing competitive market advancement. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n2. [HIGH] Sectors like white-collar jobs, manufacturing, and customer service are expected to experience disruption due to AI adoption. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n3. [HIGH] Investment implications suggest underweighting labor-intensive staffing sectors and overweighting AI infrastructure companies. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n4. [HIGH] The Trump administration in 2026 focuses on workforce reduction strategies leveraging AI. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n5. [HIGH] AI-driven automation is notably disrupting white-collar jobs in professional services and education. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.\n6. [HIGH] Investors are shifting capital towards companies providing AI infrastructure. \u2014 Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts.",
   "findings": [
     {
       "severity": "high",
-      "claim": "The current US administration's primary labor policy signal is large-scale federal workforce reductions under the DOGE initiative starting February 2025.",
+      "claim": "The Trump administration likely continues a deregulatory approach to AI-driven automation, emphasizing competitive market advancement.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
       "severity": "high",
-      "claim": "The Federal Reserve's interest rate is currently at 4.125% following labor market adjustments in response to AI impacts during 2025.",
+      "claim": "Sectors like white-collar jobs, manufacturing, and customer service are expected to experience disruption due to AI adoption.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
-      "severity": "medium",
-      "claim": "A dramatic skills mismatch has arisen, being 88% wider than in previous disruptions like the dot-com bubble or the 2009 financial crisis.",
-      "note": "Claim has no linked sources or data artifacts."
+      "severity": "high",
+      "claim": "Investment implications suggest underweighting labor-intensive staffing sectors and overweighting AI infrastructure companies.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     },
     {
       "severity": "high",
-      "claim": "The adoption of AI has led to significant economic shifts with companies like Nvidia reaping over 1172% gains.",
+      "claim": "The Trump administration in 2026 focuses on workforce reduction strategies leveraging AI.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "AI-driven automation is notably disrupting white-collar jobs in professional services and education.",
+      "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
+    },
+    {
+      "severity": "high",
+      "claim": "Investors are shifting capital towards companies providing AI infrastructure.",
       "note": "Core claim lacks two independent tier 1-3 sources. Claim has no linked sources or data artifacts."
     }
   ],
-  "created_at": "2026-03-18T15:48:18"
+  "created_at": "2026-03-18T16:05:00"
 }
